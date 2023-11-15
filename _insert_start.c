@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * __insert_start - func a func that insert to a doubly linked list

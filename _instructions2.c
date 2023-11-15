@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * __add - func that add tp two numbers of stack to each other

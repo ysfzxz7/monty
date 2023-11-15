@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * __div_error - func that print error in div instr.

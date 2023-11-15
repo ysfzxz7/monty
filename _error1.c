@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * __malloc_error - func that prints a malloc error and exit with failure.

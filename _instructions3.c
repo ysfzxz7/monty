@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * __mod - func that computes the rest of divition of

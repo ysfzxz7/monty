@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 int _is_comment(char *line);
 
